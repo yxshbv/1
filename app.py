@@ -13,3 +13,4 @@ elif m == 9 or m == 10 or m == 11:
     print("Осень")
 
 else:
+    print ("ОШИБОЧКА")
